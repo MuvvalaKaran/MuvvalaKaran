@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github 👋
 
 <a href="https://www.ariasystems.group/karan.html">
   <img align="left" alt="Karan Muvvala|Website" width="20px" src="https://github.com/MuvvalaKaran/MuvvalaKaran/blob/master/images/website.png" />
@@ -11,11 +11,11 @@
 <br />
 <br />
 
-My nane is Karan. I am currently pursuing my Masters at the University of Colorado Boulder. I am working as Research Assitant at the [Ariasystems.group](https://www.ariasystems.group/karan.html)
+My nane is Karan - a budding Roboticist from India. I am currently pursuing my Masters at the University of Colorado Boulder, USA - [Robotics and Systems Design](https://www.colorado.edu/mechanical/research/research-focus-areas/robotics-and-systems-design-research) Track. I am working as a Research Assitant at the [Aria Systems](https://www.ariasystems.group/karan.html) with Prof. [Morteza Lahijanian](http://www.mortezalahijanian.com/) on "Scalable Reactive Synthesis for Manipulators in interactive envs with safety guarantees" at the [Aerospace Engineering Scineces](https://www.colorado.edu/aerospace/) Department.
 
-My reasearch interest lies at the intersection of Autonomous Systems, Controls, and Formal Methods. My goal is to eventually make robotics technologies especially Autonomous systems- feasablie i.e safer and smarter to use in our day-to-day life. 
+My reasearch interest lies at the intersection of Autonomous Systems, Controls, and Formal Methods. My goal is to eventually make robotics technologies especially Autonomous systems feasablie i.e safer and smarter to use in our day-to-day life. 
 
-Please reach out to if you have any question in general at - [karan.muvvala@colorado.edu](mailto:karan.muvvala@colorado.edu)
+Please reach out to if you have any question in general at - [karan.muvvala@colorado.edu](mailto:karan.muvvala@colorado.edu). Thank you!
 
 ## Languages 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -27,17 +27,3 @@ Please reach out to if you have any question in general at - [karan.muvvala@colo
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature on github.*
 
-<!--
-**MuvvalaKaran/MuvvalaKaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
