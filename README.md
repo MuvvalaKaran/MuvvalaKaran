@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!-- <a href=["mail"](mailto:karam.muvvala@colorado.edu)> -->
-<a href=" " onclick="window.open('mailto:karam.muvvala@colorado.edu', '_self');">
-  <img align="left" alt="Karan Muvvala|Contact" width="20px" src="https://github.com/MuvvalaKaran/MuvvalaKaran/blob/master/images/mail.svg" />
-</a>
-
 <a href="https://www.ariasystems.group/karan.html">
   <img align="left" alt="Karan Muvvala|Website" width="20px" src="https://github.com/MuvvalaKaran/MuvvalaKaran/blob/master/images/website.png" />
 </a>
@@ -16,12 +11,11 @@
 <br />
 <br />
 
-
 My nane is Karan. I am currently pursuing my Masters at the University of Colorado Boulder. I am working as Research Assitant at the [Ariasystems.group](https://www.ariasystems.group/karan.html)
 
 My reasearch interest lies at the intersection of Autonomous Systems, Controls, and Formal Methods. My goal is to eventually make robotics technologies especially Autonomous systems- feasablie i.e safer and smarter to use in our day-to-day life. 
 
-Please reach out to if you have any question in general at - karan.muvvala@colorado.edu
+Please reach out to if you have any question in general at - [karan.muvvala@colorado.edu](mailto:karan.muvvala@colorado.edu)
 
 ## Languages 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
