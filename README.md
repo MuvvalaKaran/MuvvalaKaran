@@ -11,11 +11,11 @@
 <br />
 <br />
 
-My name is Karan - a budding Roboticist from India. I am currently pursuing my Masters at the University of Colorado Boulder, USA - [Robotics and Systems Design](https://www.colorado.edu/mechanical/research/research-focus-areas/robotics-and-systems-design-research) Track. I am working as a Research Assistant at the [Aria Systems](https://www.ariasystems.group/karan.html) lab with Prof. [Morteza Lahijanian](http://www.mortezalahijanian.com/) on developing novel algorithms valtidated via mathematical tools from Game-theoretic community on "Scalable Reactive Synthesis for Manipulators in interactive environments with safety guarantees" at the [Aerospace Engineering Scineces](https://www.colorado.edu/aerospace/) Department.
+My name is Karan - a budding Roboticist from India. I am currently pursuing my Masters at the University of Colorado Boulder, USA - [Robotics and Systems Design](https://www.colorado.edu/mechanical/research/research-focus-areas/robotics-and-systems-design-research) Track. I am working as a Research Assistant at the [Aria Systems](https://www.ariasystems.group/karan.html) lab with Prof. [Morteza Lahijanian](http://www.mortezalahijanian.com/) on developing novel algorithms validated via mathematical tools from Game-theoretic community for "Scalable Reactive Synthesis for Manipulators in interactive and dynamic(possibly adversarial) environments with safety guarantees" at the [Aerospace Engineering Scineces](https://www.colorado.edu/aerospace/) Department.
 
-My reasearch interest lies at the intersection of Autonomous Systems, Controls, and Formal Methods. My goal is to eventually make robotics technologies especially Autonomous systems feasablie i.e safer and smarter to use in our day-to-day life. 
+My reasearch interest lies at the intersection of Autonomous Systems, Controls, and Formal Methods. My goal is to eventually make robotics technologies especially Autonomous systems feasable i.e safer and smarter to use in our day-to-day life. 
 
-Please reach out to if you have any question in general at - [karan.muvvala@colorado.edu](mailto:karan.muvvala@colorado.edu). Thank you!
+Please reach out to if you have any questions in general at - [karan.muvvala@colorado.edu](mailto:karan.muvvala@colorado.edu). Thank you!
 
 ## Languages 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
