@@ -11,11 +11,16 @@
 <br />
 <br />
 
-My name is Karan - a budding Roboticist from India. I am currently pursuing my Masters at the University of Colorado Boulder, USA - [Robotics and Systems Design](https://www.colorado.edu/mechanical/research/research-focus-areas/robotics-and-systems-design-research) Track. I am working as a Research Assistant at the [Aria Systems](https://www.ariasystems.group/karan.html) lab with Prof. [Morteza Lahijanian](http://www.mortezalahijanian.com/) on developing novel algorithms validated via mathematical tools from Game-theoretic community for "Scalable Reactive Synthesis for Manipulators in interactive and dynamic(possibly adversarial) environments with safety guarantees" at the [Aerospace Engineering Scineces](https://www.colorado.edu/aerospace/) Department.
+Hey, I am Karan, a first-year Ph.D. student in the Aerospace Engineering Dept. at CU. I currently working as a Research Assistant at [Aria Systems](https://www.ariasystems.group/karan.html) advised of Dr. [Morteza Lahijanian](http://www.mortezalahijanian.com/). At ARIA Systems group I work on developing theories and algorithms that enable robots to operate safely, robustly, and efficiently in unknown and dynamic environments. Currently, I am working on
 
-My reasearch interest lies at the intersection of Autonomous Systems, Controls, and Formal Methods. My goal is to eventually make robotics technologies especially Autonomous systems feasable i.e safer and smarter to use in our day-to-day life. 
+- **Verifying** the safety of complex autonomous systems modeled as neural networks and guaranteeing their safety using Barrier Methods for Safe Autonomy. 
+- I am also working on **Synthesizing** high-level strategies for a robotic manipulator operating in the presence of a human using game-theoretic approaches to enable more human-like behavior for robots.
+
+My current research interest includes Formal Methods, Verification and Planning for Autonomous systems, Game Theory, and Control Theory.
 
 Please reach out to if you have any questions in general at - [karan.muvvala@colorado.edu](mailto:karan.muvvala@colorado.edu). Thank you!
+
+Checkout our lab's github [repo](https://github.com/orgs/aria-systems-group/dashboard) to see what I have been upto! 
 
 ## Languages 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
