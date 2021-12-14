@@ -11,10 +11,10 @@
 <br />
 <br />
 
-Hey, I am Karan, a first-year Ph.D. student in the Aerospace Engineering Dept. at CU. I currently working as a Research Assistant at [Aria Systems](https://www.ariasystems.group/karan.html) advised of Dr. [Morteza Lahijanian](http://www.mortezalahijanian.com/). At ARIA Systems group I work on developing theories and algorithms that enable robots to operate safely, robustly, and efficiently in unknown and dynamic environments. Currently, I am working on
+Hey, I am Karan, a first-year Ph.D. student in the Aerospace Engineering Dept. at CU. I currently working as a Research Assistant at [Aria Systems](https://www.ariasystems.group/karan.html) advised by Dr. [Morteza Lahijanian](http://www.mortezalahijanian.com/). At ARIA Systems group I work on developing theories and algorithms that enable robots to operate safely, robustly, and efficiently in unknown and dynamic environments. Currently, I am working on
 
 - **Verifying** the safety of complex autonomous systems modeled as neural networks and guaranteeing their safety using Barrier Methods for Safe Autonomy. 
-- I am also working on **Synthesizing** high-level strategies for a robotic manipulator operating in the presence of a human using game-theoretic approaches to enable more human-like behavior for robots.
+- And **Synthesizing** high-level strategies for a robotic manipulator operating in the presence of a human using game-theoretic approaches to enable more human-like behavior for robots.
 
 My current research interest includes Formal Methods, Verification and Planning for Autonomous systems, Game Theory, and Control Theory.
 
