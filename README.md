@@ -1,7 +1,7 @@
 ### Welcome to my Github 👋
 
-<a href="https://www.ariasystems.group/karan.html">
-  <img align="left" alt="Karan Muvvala|Website" width="20px" src="https://muvvalakaran.github.io/" />
+<a href="https://muvvalakaran.github.io/">
+  <img align="left" alt="Karan Muvvala|Website" width="20px" src="https://github.com/MuvvalaKaran/MuvvalaKaran/blob/master/images/website.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/karanmuvvala/">
