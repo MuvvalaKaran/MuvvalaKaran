@@ -21,9 +21,10 @@ My current research interest includes Formal Methods, Verification and Planning 
 Please reach out to if you have any questions in general at - [karan.muvvala@colorado.edu](mailto:karan.muvvala@colorado.edu). Thank you!
 
 For More Info check:
-
-* Personal Website: https://muvvalakaran.github.io/
-* LinkedIn: https://www.linkedin.com/in/karanmuvvala/
+* Google Scholar: [Link](https://scholar.google.com/citations?user=8O5xVC8AAAAJ&hl=en)
+* Personal Website: [Link](https://muvvalakaran.github.io/)
+* LinkedIn: [Link](https://www.linkedin.com/in/karanmuvvala/)
+* CV: [Link](https://muvvalakaran.github.io/uploads/karan_muvvala_cv.pdf)
 
 
 Checkout our lab's github [repo](https://github.com/orgs/aria-systems-group/dashboard) to see what I have been upto! 
