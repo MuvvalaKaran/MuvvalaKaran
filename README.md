@@ -27,7 +27,7 @@ For More Info check:
 * CV: [Link](https://muvvalakaran.github.io/uploads/karan_muvvala_cv.pdf)
 
 
-Checkout our lab's github [repo](https://github.com/orgs/aria-systems-group/dashboard) to see what I have been upto! 
+Checkout our lab's github [repo](https://github.com/orgs/aria-systems-group) to see what I have been upto! 
 
 ## Languages 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
